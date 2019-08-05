@@ -1,1 +1,0 @@
-# Foursquare-With-CoreData
